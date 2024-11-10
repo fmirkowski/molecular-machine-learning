@@ -1,0 +1,7 @@
+lightgbm
+jupyter
+matplotlib
+pandas
+pyarrow
+scikit-fingerprints
+scikit-learn
